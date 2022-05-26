@@ -30,12 +30,12 @@ header#content {
 
 #brand-name {
   letter-spacing: .4rem;
-  font-size: small;
+  font-size: medium;
   text-align:center;
 }
 
 #brand-slogan{
-  font-size: x-small;
+  font-size: small;
 }
 
 * {
